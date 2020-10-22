@@ -2,6 +2,7 @@
 
 ### To run
 ```
+cp .env.sample .env
 docker-compose up
 ```
 ### To stop
